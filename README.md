@@ -16,7 +16,8 @@ where [option]:
 	criteria
            Search criteria.
 ```
-##Todo:
+Todo:
+----
 - Add options to search through other resources like RDS etc. At the moment this is limited to ec2
 - Use --filters with the query instead of grep 
 
